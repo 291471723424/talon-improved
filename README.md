@@ -1,6 +1,13 @@
 
 # Talon
 
+
+> [!IMPROVEMENTS]
+> Removed Amoled Accent Taskbar Changes due to it creating multiple graphical bugs with apps
+> Embedded 3rd party code for fully offline use, also added security
+> Removed the Desktop Background change
+> Optimized Code
+
 > [!NOTE]
 > All of our free software is designed to respect your privacy, while being as simple to use as possible. Our free software is licensed under the [BSD-3-Clause license](https://ravendevteam.org/files/BSD-3-Clause.txt). By using our software, you acknowledge and agree to the terms of the license.
 
