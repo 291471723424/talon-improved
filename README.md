@@ -1,8 +1,7 @@
 
-# Talon
+# Talon Improved
 
-
-> [!IMPROVEMENTS]
+## Improvements
 > Removed Amoled Accent Taskbar Changes due to it creating multiple graphical bugs with apps
 > Embedded 3rd party code for fully offline use, also added security
 > Removed the Desktop Background change
